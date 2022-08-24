@@ -21,8 +21,12 @@ namespace TripLists
 
     }
 
-
-
+    internal class App
+    {
+        public App()
+        {
+        }
+    }
 }      
 
 

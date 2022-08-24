@@ -14,3 +14,19 @@
 /Users/kamiarhmotley/Projects/ADF_2022_MotleyKamirah 2/TripLists/TripLists/obj/Debug/net5.0/TripLists.pdb
 /Users/kamiarhmotley/Projects/ADF_2022_MotleyKamirah 2/TripLists/TripLists/obj/Debug/net5.0/TripLists.genruntimeconfig.cache
 /Users/kamiarhmotley/Projects/ADF_2022_MotleyKamirah 2/TripLists/TripLists/obj/Debug/net5.0/ref/TripLists.dll
+/Users/kamiarhmotley/Desktop/MyPortfolio/dev/Triplists/obj/Debug/net5.0/TripLists.csproj.AssemblyReference.cache
+/Users/kamiarhmotley/Desktop/MyPortfolio/dev/Triplists/obj/Debug/net5.0/TripLists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kamiarhmotley/Desktop/MyPortfolio/dev/Triplists/obj/Debug/net5.0/TripLists.AssemblyInfoInputs.cache
+/Users/kamiarhmotley/Desktop/MyPortfolio/dev/Triplists/obj/Debug/net5.0/TripLists.AssemblyInfo.cs
+/Users/kamiarhmotley/Desktop/MyPortfolio/dev/Triplists/obj/Debug/net5.0/TripLists.csproj.CoreCompileInputs.cache
+/Users/kamiarhmotley/Desktop/MyPortfolio/dev/Triplists/obj/Debug/net5.0/TripLists.dll
+/Users/kamiarhmotley/Desktop/MyPortfolio/dev/Triplists/obj/Debug/net5.0/refint/TripLists.dll
+/Users/kamiarhmotley/Desktop/MyPortfolio/dev/Triplists/obj/Debug/net5.0/TripLists.pdb
+/Users/kamiarhmotley/Desktop/MyPortfolio/dev/Triplists/bin/Debug/net5.0/TripLists
+/Users/kamiarhmotley/Desktop/MyPortfolio/dev/Triplists/bin/Debug/net5.0/TripLists.deps.json
+/Users/kamiarhmotley/Desktop/MyPortfolio/dev/Triplists/bin/Debug/net5.0/TripLists.runtimeconfig.json
+/Users/kamiarhmotley/Desktop/MyPortfolio/dev/Triplists/bin/Debug/net5.0/TripLists.runtimeconfig.dev.json
+/Users/kamiarhmotley/Desktop/MyPortfolio/dev/Triplists/bin/Debug/net5.0/TripLists.dll
+/Users/kamiarhmotley/Desktop/MyPortfolio/dev/Triplists/bin/Debug/net5.0/TripLists.pdb
+/Users/kamiarhmotley/Desktop/MyPortfolio/dev/Triplists/obj/Debug/net5.0/TripLists.genruntimeconfig.cache
+/Users/kamiarhmotley/Desktop/MyPortfolio/dev/Triplists/obj/Debug/net5.0/ref/TripLists.dll

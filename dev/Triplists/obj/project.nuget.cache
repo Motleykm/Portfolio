@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DL+4Ve50cSGy6K7REnxLigzCdBl2z58Pt8FQJVE5MIs9f/vel7qwEFWyfNyK2dgHHMUU5RBrEs2s8x16mTUZ3g==",
+  "dgSpecHash": "Oaw89HbmH6+E//T6SZx2p3XAZUIb9eE6ZeiZgdabULjDVcUEex0wqWRBIqR9seSwI4H1ducMa7tM7Q64JM+G+A==",
   "success": true,
-  "projectFilePath": "/Users/kamiarhmotley/Desktop/Triplists/TripLists.csproj",
+  "projectFilePath": "/Users/kamiarhmotley/Desktop/MyPortfolio/dev/Triplists/TripLists.csproj",
   "expectedPackageFiles": [
     "/Users/kamiarhmotley/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
   ],
