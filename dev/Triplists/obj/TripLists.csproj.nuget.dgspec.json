@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kamiarhmotley/Desktop/Triplists/TripLists.csproj": {}
+    "/Users/kamiarhmotley/Desktop/MyPortfolio/dev/Triplists/TripLists.csproj": {}
   },
   "projects": {
-    "/Users/kamiarhmotley/Desktop/Triplists/TripLists.csproj": {
+    "/Users/kamiarhmotley/Desktop/MyPortfolio/dev/Triplists/TripLists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kamiarhmotley/Desktop/Triplists/TripLists.csproj",
+        "projectUniqueName": "/Users/kamiarhmotley/Desktop/MyPortfolio/dev/Triplists/TripLists.csproj",
         "projectName": "TripLists",
-        "projectPath": "/Users/kamiarhmotley/Desktop/Triplists/TripLists.csproj",
+        "projectPath": "/Users/kamiarhmotley/Desktop/MyPortfolio/dev/Triplists/TripLists.csproj",
         "packagesPath": "/Users/kamiarhmotley/.nuget/packages/",
-        "outputPath": "/Users/kamiarhmotley/Desktop/Triplists/obj/",
+        "outputPath": "/Users/kamiarhmotley/Desktop/MyPortfolio/dev/Triplists/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kamiarhmotley/.nuget/NuGet/NuGet.Config"
