@@ -4,13 +4,13 @@
 
 #  Portfolio
 ### Tools & Technology 
-Hello , I am aspiring developer interested in future developing my skills in C# and eventually learn other languages.This project is designed to highlight tools and concepts that Im exploring and continuing to familiarize myself about.This project is also displaying the concepts that I learned throughout the time I attended Fullsail University in a form of application that Im currently working on called "Triplists". This App will allow the user to keep track of expenses spent on a trip. 
-
+Hello, I am an aspiring developer interested in future developing my skills in C# and eventually learning other languages. This project is designed to highlight tools and concepts that I'm exploring and continuing to familiarize myself with. This project is also displaying the concepts that I learned throughout the time I attended Fullsail University in a form of an application that I'm currently working on called "Triplists". This App will allow the user to keep track of expenses spent on a trip. 
 
 
 ##Code Exploration:
 
-At the begining of this program , the user will be taken to this screen called the program class.This is the initial entry point of the   of a program  that lets the user know what is the application is about. 
+At the beginning of this program, the user will be taken to this screen called the program class. This is the initial entry point of a program that lets the user know what the application is about. 
+
 
 
 It will be displayed something like this :
@@ -32,13 +32,15 @@ namespace TripLists
         }
         
 ```
-Next a user will be taken to the screen where the features of the menu are being displayed 
-In this case the menu option will loop using a foreeach loop 
+At the beginning of this program, the user will be taken to this screen called the program class. This is the initial entry point of a program that lets the user know what the application is about. 
+
+
+It will be displayed something like this :
+Next, a user will be taken to the screen where the features of the menu are being displayed 
+In this case, the menu option will loop using a for loop 
 
 For Loop is a loop that we use if we know how many times that block of code will loop.
-So here is a example of Menu class usng a for loop in my triplist app .In this case this  will diplay how many times will we loop all menu options.
- 
- Example Code Here 
+So here is an example of a Menu class using a for loop in my trip list app. In this case, this will display how many times will we loop all menu options. Example Code Here 
 ```c#
 namespace TripLists
 {
@@ -86,9 +88,9 @@ namespace TripLists
 	}
 }
 
-So now we are going to be talking about validation.Some validation methods that we used were : Valiate integer , user input using null or empty method. So when the enters a  their username to create an account , they will use the null and empty method.This validates that the person will not leave this answer blank and must be answered if the wants to move on the next question. 
+So now we are going to be talking about validation. Some validation methods that we used were: Validate integer, and user input using the null or empty method. So when they enter their username to create an account, they will use the null and empty methods. This validates that the person will not leave this answer blank and must be answered if the wants to move on to the next question. 
 
-Example code :
+ Example code :
 
 ```c#
 
@@ -102,12 +104,9 @@ Console.Write("UserName: ");
 
 
 ```
-So we will carry out the validation of this 
-  using this valiadtionn method using a while loop. 
-  
- ##While Loop- is a loop that we use if dont know how many will run .In this case , this loop will run as long as the user keeps this answer blank.
-  
-  Example code :
+
+While Loop- is a loop that we use if we don't know how many will run. In this case, this loop will run as long as the user keeps this answer blank.
+    Example code :
   
   ```C#
                   
@@ -129,10 +128,8 @@ public static string ValidateString(string input)
                 }
             }
   ```
-            
- Next another validation method that I worked with was the Integer validation method. So this will also be displayed when we validate that a numerical value is entered correctly .In this case , we will use this validation method to validate their id number
- 
- Example here: 
+  Next, another validation method that I worked with was the Integer validation method. So this will also be displayed when we validate that a numerical value is entered correctly. In this case, we will use this validation method to validate their id number          
+  Example here: 
  
  ```c#
  
@@ -178,9 +175,8 @@ public static string ValidateString(string input)
             
  ``` 
   
-  So now when the app ask the users to enter a password, that can be validated using a Regex test. This means that their password has to meet the requirements in order to move on. 
-  
-  
+ So now when the app asks the users to enter a password, that can be validated using a Regex test. This means that their password has to meet the requirements to move on. 
+
   Example will be : 
   ```c#
   
@@ -190,7 +186,7 @@ public static string ValidateString(string input)
 			string password = Console.ReadLine();
 			password = Validation.ValidateString(password)    
   
-Then when the user wants to validate that met the requirements for the password , they would use this validation method
+Then when the user wants to validate that met the requirements for the password, they would use this validation method
 
 
 ```c#
@@ -226,7 +222,7 @@ Then when the user wants to validate that met the requirements for the password 
 
 
 ```
-So if the user wants to change their password because they have forgot it or they just want to update their password.So these conditionals will allow them three attempts to login in with their current password or they have to create a new password.
+ So if the user wants to change their password because they have forgotten it or they just want to update their password. So these conditions will allow them three attempts to login in with their current password or they have to create a new password. 
 
 ```c#
 
